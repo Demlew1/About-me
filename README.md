@@ -50,11 +50,4 @@
 
 ---
 
-## 👀 Visitor Count
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=demlew1&icon=0&color=0" alt="visitor count" />
-</p>
 
----
-
-<!-- Proudly created with GPRM (https://gprm.itsvg.in) -->
