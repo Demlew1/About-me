@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Demtse Yibabe</h1>
-<h3 align="center">🚀 A passionate Web Developer from Ethiopia</h3>
+<h3 align="center">🚀 A Website Developer from Ethiopia</h3>
 
 ---
 
