@@ -37,10 +37,6 @@
 
 ---
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=demlew1&theme=darkhub&margin-w=10&margin-h=10&no-frame=true" alt="trophies" />
-</p>
 
 ---
 
